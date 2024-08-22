@@ -1,1 +1,4 @@
 Sample text file.
+
+Making changes to check how snapshots are taken in each commit.
+
