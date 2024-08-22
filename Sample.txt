@@ -2,3 +2,5 @@ Sample text file.
 
 Making changes to check how snapshots are taken in each commit.
 
+These are the changes made in the branch ( Adding new lines).
+
