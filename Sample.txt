@@ -2,5 +2,11 @@ Sample text file.
 
 Making changes to check how snapshots are taken in each commit.
 
+
 This is added from Emergency fix branch
+
+These are the changes made in the branch ( Adding new lines).
+
+these are the changes added in other commit.
+
 
