@@ -4,3 +4,5 @@ Making changes to check how snapshots are taken in each commit.
 
 These are the changes made in the branch ( Adding new lines).
 
+these are the changes added in other commit.
+
