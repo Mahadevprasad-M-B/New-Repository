@@ -1,1 +1,3 @@
 Adding the new file and modifying the same in the branch(Adding new lines).
+
+These are the text added in the local git and pushed to GitHub.
